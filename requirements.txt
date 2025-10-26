@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# AWS / Cloud (for Part B)
+boto3
+sagemaker
+
+# Utilities
+pathlib
+ipython
+jupyter
