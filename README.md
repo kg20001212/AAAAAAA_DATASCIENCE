@@ -7,8 +7,7 @@ It implements two pipelines:
 - **On-Cloud (Part B):** The same pipeline replicated and deployed on **Amazon SageMaker**.
 
 ## Files in This Repository
-- `onpremises.ipynb` — Data preprocessing, EDA, and baseline model training (Logistic Regression).
-- `oncloud.ipynb` — Model training and evaluation on AWS SageMaker.
+- `onpremises.ipynb` — Data preprocessing, EDA, and baseline model training (Logistic Regression)..
 - `requirements.txt` — Python package dependencies.
 - `README.md` — Documentation for setup and usage.
 
